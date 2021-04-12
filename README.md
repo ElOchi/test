@@ -59,16 +59,14 @@ ___
   npm start
 ```
 
-```C
+```c
   int main()
   {
   printf("Hello");
   }
 ```
-```Python
-  def my
-
-
-
+```python
+  def add(num1,num2):
+    return num1 + num2
 ```
 
