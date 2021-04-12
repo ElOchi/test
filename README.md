@@ -23,3 +23,8 @@ ___
 <!-- Blockquote -->
 
 > This is a quote
+
+<!-- links -->
+
+[My link](https://intranet.hbtn.io/captain_logs/65266/edit)
+[My link](https://intranet.hbtn.io/captain_logs/65266/edit"link")
