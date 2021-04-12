@@ -53,7 +53,7 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 | string.c | Functions for string manipulation:
 |_strcat | Concatenates two strings |
 |_strlen | Counts the length of a string |
-|_strcmp Compares two strings |
+|_strcmp | Compares two strings |
 | _getenv.c |Function to gets an environment variable |
 | _open_help.c |Function to print env and help |
 | builtin_commands.c | Handle all built-ins |
