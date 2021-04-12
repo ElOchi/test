@@ -61,5 +61,6 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 ### Authors
 
 Christopher Soriano [GitHub](https://github.com/csoriano2832)
+
 Oscar Ochart [GitHub](https://github.com/ElOchi)
 
