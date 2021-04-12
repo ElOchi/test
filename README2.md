@@ -24,7 +24,7 @@ or in non-interactive mode:
 ```bash
 echo "ls" | ./shell
 ```
-##Example of Use (FIX IT)
+## Example of Use (FIX IT)
 ```bash
 vagrant@vagrant-ubuntu-trusty-64:~/simple_shell$ ./hsh
 ($) ls -l
