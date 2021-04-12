@@ -45,4 +45,23 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 ($)
 ```
 
+### Files  (FIX IT)
+
+| File Name | Description |
+| ------ | ------ |
+| main.c | Executes programs, verify the locations and handles all functions. |
+| _exit.c | The exit built-in function |
+| _getenv.c |Function to gets an environment variable |
+| _open_help.c |Function to print env and help |
+| builtin_commands.c | Handle all built-ins |
+| counters.c | function to count delims of string |
+| exec.c | Executes programs, verify the locations and handles all functions |
+| frees.c | functions to free memory |
+| utilities.c | Contain 5 functions: _strcat (Concatenates two strings),  _strlen (Counts the length of a string), _strcmp (Compares two strings), _strdup (Duplicate a string), _atoi (Convert a string to an integer). |
+| more_utilities.c | 2 more functions: _putchar ()writes the character c to stdout), _puts (Prints a string) |
+| remove_new_line.c | function to remove a new line char from string |
+| shell.h | Libraries and prototypes of functions |
+| signal_handler.c | handle the Ctrl + C |
+| tokenize.c | function to extract tokens from string |
+
 
