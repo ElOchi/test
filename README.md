@@ -14,3 +14,8 @@ _italic_
 __Thid is bold italic__
 
 **Thid is bold italic**
+
+<!-- hotizontal Rule -->
+
+---
+___
