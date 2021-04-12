@@ -49,3 +49,12 @@ ___
 
 <!-- Images -->
 ![Markdown logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github Markdown -->
+
+<!-- Code Block -->
+```bash
+  npm install
+
+  npm start
+```
