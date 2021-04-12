@@ -56,3 +56,10 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 |_strcmp | Compares characters in two strings|
 |_putchar | Writes a single character to stdout |
 | shell.h | Libraries and prototypes of functions |
+
+
+### Authors
+
+Christopher Soriano [GitHub](https://github.com/csoriano2832)
+Oscar Ochart [GitHub](https://github.com/ElOchi)
+
