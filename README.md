@@ -38,3 +38,15 @@ ___
   * Item 1
   * Item 2
     
+
+    <!-- OL -->
+1. Item1
+1. Item2
+1. Item3
+
+<!-- Inline code block -->
+`<p>This is a paragraph</p>`
+
+<!-- Images -->
+![Markdown logo]
+(https://markdown-here.com/img/icon256.png)
