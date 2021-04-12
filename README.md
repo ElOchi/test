@@ -48,5 +48,4 @@ ___
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
-![Markdown logo]
-(https://markdown-here.com/img/icon256.png)
+![Markdown logo](https://markdown-here.com/img/icon256.png)
