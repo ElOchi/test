@@ -64,3 +64,5 @@ Christopher Soriano | [GitHub](https://github.com/csoriano2832) | [Email](mailto
 
 Oscar Ochart | [GitHub](https://github.com/ElOchi) | [Email](mailto:2386@holbertonschool.com)
 
+License
+MIT - http://www.opensource.org/licenses/mit-license.php
