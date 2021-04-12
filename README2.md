@@ -60,7 +60,7 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 
 ### Authors
 
-Christopher Soriano | [GitHub](https://github.com/csoriano2832) | [Email](2832@holbertonschool.com)
+Christopher Soriano | [GitHub](https://github.com/csoriano2832) | [Email](mailto:2832@holbertonschool.com)
 
-Oscar Ochart | [GitHub](https://github.com/ElOchi) | [Email](2386@holbertonschool.com)
+Oscar Ochart | [GitHub](https://github.com/ElOchi) | [Email](mailto:2386@holbertonschool.com)
 
