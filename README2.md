@@ -14,11 +14,15 @@ git clone https://github.com/csoriano2832/simple_shell.git
 ```
 Compile:
 ```bash
-gcc -Wall -Werror -Wextra -pedantic *.c -o simpe_shell
+gcc -Wall -Werror -Wextra -pedantic *.c -o shell
 ```
 Execute: 
 ```bash
-./simpe_shell
+./shell
+```
+or in non-interactive mode:
+```bash
+echo "ls" | ./shell
 ```
 
 
