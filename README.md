@@ -70,3 +70,17 @@ ___
     return num1 + num2
 ```
 
+<!-- Tables -->
+
+|Name    |Email           |
+|---------|---------------|
+|John doe |john@gmail.com |
+|John doe |john@gmail.com |
+
+
+<!-- Task list -->
+
+* [x] Task1
+* [x] Task2
+* [x] Task3
+* [] Task4
