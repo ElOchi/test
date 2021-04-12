@@ -6,9 +6,11 @@
 <!-- Italics -->
 
 _italic_
+
 *italic*
 
 
 <!-- Bold Italics -->
 __Thid is bold italic__
+
 **Thid is bold italic**
