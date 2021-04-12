@@ -56,7 +56,6 @@ drwxrwxr-x 3 vagrant vagrant  4096 Nov 26 01:42 concepts
 |_strcmp | Compares two strings |
 |   |   |
 |   |   |
-|   |   |
 | _open_help.c |Function to print env and help |
 | builtin_commands.c | Handle all built-ins |
 | counters.c | function to count delims of string |
