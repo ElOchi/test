@@ -58,3 +58,17 @@ ___
 
   npm start
 ```
+
+```C
+  int main()
+  {
+  printf("Hello");
+  }
+```
+```Python
+  def my
+
+
+
+```
+
